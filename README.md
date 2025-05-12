@@ -23,14 +23,14 @@ The dataset includes the following files:
 	
 	This data is compatible with any GIS software.
 
-2) Script (Jupyter Notebook):
+2) Script (Jupyter Notebook and R):
    
-	Format: .ipynb
+	Format: .ipynb and .R
 
 	Description: This Python notebook outlines the complete workflow, including:
-  *Objective 1-ML for LULC:  Implementation of ML models for LULC classification
-  *Objective 2 SHAP- ML for LULC: Model interpretation using explainable AI techniques
- *bjective 3 DI_AOA- ML for LULC : Evaluation of model uncertainty when applied to spatially distinct areas
+  	*Objective 1-ML for LULC (.ipynb):  Implementation of ML models for LULC classification
+ 	*Objective 2 SHAP- ML for LULC (.ipynb): Model interpretation using explainable AI techniques
+ 	*bjective 3 DI_AOA- ML for LULC (.R): Evaluation of model uncertainty when applied to spatially distinct areas
 	
 
 Usage: 
